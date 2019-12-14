@@ -1,0 +1,15 @@
+[INFO] [2019-11-14 17:30:08] AbstractApplicationContext.prepareRefresh(583) | Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3f2a3a5: startup date [Thu Nov 14 17:30:08 CST 2019]; root of context hierarchy
+[INFO] [2019-11-14 17:30:08] XmlBeanDefinitionReader.loadBeanDefinitions(317) | Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2019-11-14 17:30:09] ChannelConnections.init(366) |  add connected node: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:09] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:11] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:13] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:15] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:17] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:19] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:21] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:23] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:25] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:27] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:29] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200
+[INFO] [2019-11-14 17:30:31] ChannelConnections.reconnect(503) | try connect to: 127.0.0.1:20200

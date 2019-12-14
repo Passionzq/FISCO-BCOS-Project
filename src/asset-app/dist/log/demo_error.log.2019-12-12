@@ -1,0 +1,8 @@
+[ERROR] [2019-12-12 21:08:06] org.fisco.bcos.channel.client.Service.run(337) | connectSeconds = 30
+[ERROR] [2019-12-12 21:08:06] org.fisco.bcos.channel.client.Service.run(338) | can not connect to nodes success, please checkout the node status and the sdk config!
+[ERROR] [2019-12-12 21:08:06] org.fisco.bcos.channel.client.Service.run(349) | system error 
+java.lang.Exception: Can not connect to nodes success, please checkout the node status and the sdk config!
+	at org.fisco.bcos.channel.client.Service.run(Service.java:340)
+	at org.fisco.bcos.asset.client.AssetClient.initialize(AssetClient.java:82)
+	at org.fisco.bcos.asset.client.AssetClient.main(AssetClient.java:251)
+[ERROR] [2019-12-12 21:25:32] org.fisco.bcos.asset.client.AssetClient.addAssetTransaction(202) |  registerAssetAccount exception, error message is  load Asset contract address failed, please deploy it first. 

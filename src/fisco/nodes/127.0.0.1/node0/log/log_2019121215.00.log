@@ -1,0 +1,481 @@
+warning|2019-12-12 15:00:00.186674|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:00.350881|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=a01e8412...
+info|2019-12-12 15:00:00.354970|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16053,toView=16054,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.944
+info|2019-12-12 15:00:00.360589|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16053,org_changeCycle=0,cur_changeCycle=0,to_view=16054
+info|2019-12-12 15:00:01.369496|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=7c7f6505...
+info|2019-12-12 15:00:01.373751|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16054,toView=16055,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.988
+info|2019-12-12 15:00:01.379142|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16054,org_changeCycle=0,cur_changeCycle=0,to_view=16055
+info|2019-12-12 15:00:01.917574|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:00:02.159695|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:02.379680|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=425e37dc...
+info|2019-12-12 15:00:02.382297|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16055,toView=16056,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.385
+info|2019-12-12 15:00:02.383433|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16055,org_changeCycle=0,cur_changeCycle=0,to_view=16056
+info|2019-12-12 15:00:03.386307|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=d0c473d7...
+info|2019-12-12 15:00:03.388450|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16056,toView=16057,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.633
+info|2019-12-12 15:00:03.394231|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16056,org_changeCycle=0,cur_changeCycle=0,to_view=16057
+warning|2019-12-12 15:00:04.178173|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:04.395582|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=9e2d5200...
+info|2019-12-12 15:00:04.397712|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16057,toView=16058,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.997
+info|2019-12-12 15:00:04.398967|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16057,org_changeCycle=0,cur_changeCycle=0,to_view=16058
+info|2019-12-12 15:00:05.401733|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=e9e5daed...
+info|2019-12-12 15:00:05.405333|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16058,toView=16059,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.853
+info|2019-12-12 15:00:05.410496|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16058,org_changeCycle=0,cur_changeCycle=0,to_view=16059
+warning|2019-12-12 15:00:06.172414|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:06.411122|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=81015cda...
+info|2019-12-12 15:00:06.418447|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16059,toView=16060,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=6.308
+info|2019-12-12 15:00:06.424509|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16059,org_changeCycle=0,cur_changeCycle=0,to_view=16060
+info|2019-12-12 15:00:07.429272|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=0d1b0dad...
+info|2019-12-12 15:00:07.429957|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16060,toView=16061,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.563
+info|2019-12-12 15:00:07.431749|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16060,org_changeCycle=0,cur_changeCycle=0,to_view=16061
+warning|2019-12-12 15:00:08.175575|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:08.437574|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=e5dbfdbc...
+info|2019-12-12 15:00:08.441089|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16061,toView=16062,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.312
+info|2019-12-12 15:00:08.448367|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16061,org_changeCycle=0,cur_changeCycle=0,to_view=16062
+info|2019-12-12 15:00:09.456132|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=ba0fe6da...
+info|2019-12-12 15:00:09.458665|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16062,toView=16063,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.1
+info|2019-12-12 15:00:09.468604|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16062,org_changeCycle=0,cur_changeCycle=0,to_view=16063
+warning|2019-12-12 15:00:10.184955|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:10.469294|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=0805f28c...
+info|2019-12-12 15:00:10.478726|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16063,toView=16064,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.556
+info|2019-12-12 15:00:10.483431|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16063,org_changeCycle=0,cur_changeCycle=0,to_view=16064
+info|2019-12-12 15:00:11.488375|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=a26ff22d...
+info|2019-12-12 15:00:11.492761|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16064,toView=16065,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.93
+info|2019-12-12 15:00:11.499134|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16064,org_changeCycle=0,cur_changeCycle=0,to_view=16065
+info|2019-12-12 15:00:11.917792|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:00:12.188119|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:12.502486|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=0396909f...
+info|2019-12-12 15:00:12.506554|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16065,toView=16066,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.384
+info|2019-12-12 15:00:12.511163|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16065,org_changeCycle=0,cur_changeCycle=0,to_view=16066
+info|2019-12-12 15:00:13.514658|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=e430fe4a...
+info|2019-12-12 15:00:13.520634|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16066,toView=16067,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.912
+info|2019-12-12 15:00:13.531913|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16066,org_changeCycle=0,cur_changeCycle=0,to_view=16067
+warning|2019-12-12 15:00:14.203473|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:14.532679|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=0eb2aced...
+info|2019-12-12 15:00:14.535559|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16067,toView=16068,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.492
+info|2019-12-12 15:00:14.545469|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16067,org_changeCycle=0,cur_changeCycle=0,to_view=16068
+info|2019-12-12 15:00:15.557601|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=4c1afb3f...
+info|2019-12-12 15:00:15.562745|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16068,toView=16069,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.921
+info|2019-12-12 15:00:15.569430|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16068,org_changeCycle=0,cur_changeCycle=0,to_view=16069
+warning|2019-12-12 15:00:16.175955|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:16.579007|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=97c8f677...
+info|2019-12-12 15:00:16.580718|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16069,toView=16070,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.362
+info|2019-12-12 15:00:16.585579|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16069,org_changeCycle=0,cur_changeCycle=0,to_view=16070
+info|2019-12-12 15:00:17.588568|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=03faa8f4...
+info|2019-12-12 15:00:17.589118|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16070,toView=16071,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.37
+info|2019-12-12 15:00:17.590266|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16070,org_changeCycle=0,cur_changeCycle=0,to_view=16071
+warning|2019-12-12 15:00:18.186520|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:18.591252|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=aa0c5688...
+info|2019-12-12 15:00:18.596553|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16071,toView=16072,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.351
+info|2019-12-12 15:00:18.607197|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16071,org_changeCycle=0,cur_changeCycle=0,to_view=16072
+info|2019-12-12 15:00:19.609887|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=a7f8b50f...
+info|2019-12-12 15:00:19.611611|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16072,toView=16073,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.225
+info|2019-12-12 15:00:19.612970|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16072,org_changeCycle=0,cur_changeCycle=0,to_view=16073
+warning|2019-12-12 15:00:20.179042|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:20.616662|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=1cd87f1e...
+info|2019-12-12 15:00:20.619227|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16073,toView=16074,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.044
+info|2019-12-12 15:00:20.624292|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16073,org_changeCycle=0,cur_changeCycle=0,to_view=16074
+info|2019-12-12 15:00:21.630583|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=03d6d86e...
+info|2019-12-12 15:00:21.632315|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16074,toView=16075,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.3
+info|2019-12-12 15:00:21.638481|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16074,org_changeCycle=0,cur_changeCycle=0,to_view=16075
+info|2019-12-12 15:00:21.917985|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:00:22.170802|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:22.638146|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=a40713c9...
+info|2019-12-12 15:00:22.638854|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16075,toView=16076,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.452
+info|2019-12-12 15:00:22.640747|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16075,org_changeCycle=0,cur_changeCycle=0,to_view=16076
+info|2019-12-12 15:00:23.645879|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=1c95e228...
+info|2019-12-12 15:00:23.650014|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16076,toView=16077,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.882
+info|2019-12-12 15:00:23.656377|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16076,org_changeCycle=0,cur_changeCycle=0,to_view=16077
+warning|2019-12-12 15:00:24.184757|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:24.656787|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=36f54284...
+info|2019-12-12 15:00:24.658138|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16077,toView=16078,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.185
+info|2019-12-12 15:00:24.659793|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16077,org_changeCycle=0,cur_changeCycle=0,to_view=16078
+info|2019-12-12 15:00:25.661253|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=34d6bf86...
+info|2019-12-12 15:00:25.661741|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16078,toView=16079,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.378
+info|2019-12-12 15:00:25.662482|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16078,org_changeCycle=0,cur_changeCycle=0,to_view=16079
+warning|2019-12-12 15:00:26.182569|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:26.663409|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=e367e428...
+info|2019-12-12 15:00:26.665555|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16079,toView=16080,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.298
+info|2019-12-12 15:00:26.666578|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16079,org_changeCycle=0,cur_changeCycle=0,to_view=16080
+info|2019-12-12 15:00:27.670616|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=8d362d3c...
+info|2019-12-12 15:00:27.674172|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16080,toView=16081,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.716
+info|2019-12-12 15:00:27.679297|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16080,org_changeCycle=0,cur_changeCycle=0,to_view=16081
+warning|2019-12-12 15:00:28.185736|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:28.680550|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=7d0caeb8...
+info|2019-12-12 15:00:28.683807|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16081,toView=16082,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.656
+info|2019-12-12 15:00:28.688959|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16081,org_changeCycle=0,cur_changeCycle=0,to_view=16082
+info|2019-12-12 15:00:29.688324|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=360ddc03...
+info|2019-12-12 15:00:29.689005|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16082,toView=16083,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.592
+info|2019-12-12 15:00:29.690263|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16082,org_changeCycle=0,cur_changeCycle=0,to_view=16083
+warning|2019-12-12 15:00:30.189535|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:30.691253|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=d4d6281f...
+info|2019-12-12 15:00:30.697902|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16083,toView=16084,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.508
+info|2019-12-12 15:00:30.706618|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16083,org_changeCycle=0,cur_changeCycle=0,to_view=16084
+info|2019-12-12 15:00:31.713182|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=daabd2e2...
+info|2019-12-12 15:00:31.714011|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16084,toView=16085,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.653
+info|2019-12-12 15:00:31.717905|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16084,org_changeCycle=0,cur_changeCycle=0,to_view=16085
+info|2019-12-12 15:00:31.918478|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:00:32.189096|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:32.735526|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=c1088c37...
+info|2019-12-12 15:00:32.738946|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16085,toView=16086,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.239
+info|2019-12-12 15:00:32.743409|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16085,org_changeCycle=0,cur_changeCycle=0,to_view=16086
+info|2019-12-12 15:00:33.738169|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=3c6f43e9...
+info|2019-12-12 15:00:33.740821|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16086,toView=16087,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.112
+info|2019-12-12 15:00:33.744776|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16086,org_changeCycle=0,cur_changeCycle=0,to_view=16087
+warning|2019-12-12 15:00:34.180553|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:34.744848|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=93b8f99a...
+info|2019-12-12 15:00:34.751539|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16087,toView=16088,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.88
+info|2019-12-12 15:00:34.763992|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16087,org_changeCycle=0,cur_changeCycle=0,to_view=16088
+info|2019-12-12 15:00:35.774278|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=efd52dcd...
+info|2019-12-12 15:00:35.778962|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16088,toView=16089,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=4.313
+info|2019-12-12 15:00:35.786210|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16088,org_changeCycle=0,cur_changeCycle=0,to_view=16089
+warning|2019-12-12 15:00:36.202576|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:36.792486|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=8fefd11d...
+info|2019-12-12 15:00:36.798246|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16089,toView=16090,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=4.134
+info|2019-12-12 15:00:36.805497|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16089,org_changeCycle=0,cur_changeCycle=0,to_view=16090
+info|2019-12-12 15:00:37.805751|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=a012fc91...
+info|2019-12-12 15:00:37.807996|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16090,toView=16091,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.813
+info|2019-12-12 15:00:37.813218|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16090,org_changeCycle=0,cur_changeCycle=0,to_view=16091
+warning|2019-12-12 15:00:38.189306|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:38.813804|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=b8f9ac7d...
+info|2019-12-12 15:00:38.819693|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16091,toView=16092,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.238
+info|2019-12-12 15:00:38.824794|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16091,org_changeCycle=0,cur_changeCycle=0,to_view=16092
+info|2019-12-12 15:00:39.831830|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=18b4c9a3...
+info|2019-12-12 15:00:39.836880|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16092,toView=16093,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.887
+info|2019-12-12 15:00:39.843049|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16092,org_changeCycle=0,cur_changeCycle=0,to_view=16093
+warning|2019-12-12 15:00:40.195348|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:40.849264|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=b7001b60...
+info|2019-12-12 15:00:40.852190|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16093,toView=16094,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.994
+info|2019-12-12 15:00:40.855954|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16093,org_changeCycle=0,cur_changeCycle=0,to_view=16094
+info|2019-12-12 15:00:41.863431|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=c5f55387...
+info|2019-12-12 15:00:41.866494|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16094,toView=16095,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.455
+info|2019-12-12 15:00:41.872877|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16094,org_changeCycle=0,cur_changeCycle=0,to_view=16095
+info|2019-12-12 15:00:41.918635|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:00:42.189707|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:42.872798|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=5a02a2af...
+info|2019-12-12 15:00:42.880545|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16095,toView=16096,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.348
+info|2019-12-12 15:00:42.885547|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16095,org_changeCycle=0,cur_changeCycle=0,to_view=16096
+info|2019-12-12 15:00:43.889255|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=c44ac794...
+info|2019-12-12 15:00:43.891569|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16096,toView=16097,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.347
+info|2019-12-12 15:00:43.896974|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16096,org_changeCycle=0,cur_changeCycle=0,to_view=16097
+warning|2019-12-12 15:00:44.197605|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:44.903598|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=4fc09306...
+info|2019-12-12 15:00:44.906415|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16097,toView=16098,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.458
+info|2019-12-12 15:00:44.911496|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16097,org_changeCycle=0,cur_changeCycle=0,to_view=16098
+info|2019-12-12 15:00:45.915498|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=5fce5aa5...
+info|2019-12-12 15:00:45.917432|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16098,toView=16099,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.359
+info|2019-12-12 15:00:45.923405|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16098,org_changeCycle=0,cur_changeCycle=0,to_view=16099
+warning|2019-12-12 15:00:46.190662|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:46.924102|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=06b2f403...
+info|2019-12-12 15:00:46.934309|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16099,toView=16100,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.614
+info|2019-12-12 15:00:46.938729|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16099,org_changeCycle=0,cur_changeCycle=0,to_view=16100
+info|2019-12-12 15:00:47.939010|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=c04f7a09...
+info|2019-12-12 15:00:47.941106|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16100,toView=16101,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.79
+info|2019-12-12 15:00:47.945246|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16100,org_changeCycle=0,cur_changeCycle=0,to_view=16101
+warning|2019-12-12 15:00:48.193748|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:48.951457|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=99ffcdbf...
+info|2019-12-12 15:00:48.954139|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16101,toView=16102,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.745
+info|2019-12-12 15:00:48.957866|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16101,org_changeCycle=0,cur_changeCycle=0,to_view=16102
+info|2019-12-12 15:00:49.962681|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=7bf641ab...
+info|2019-12-12 15:00:49.963821|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16102,toView=16103,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.902
+info|2019-12-12 15:00:49.965485|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16102,org_changeCycle=0,cur_changeCycle=0,to_view=16103
+warning|2019-12-12 15:00:50.194604|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:50.966344|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=dfe0fc89...
+info|2019-12-12 15:00:50.970235|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16103,toView=16104,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.268
+info|2019-12-12 15:00:50.978548|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16103,org_changeCycle=0,cur_changeCycle=0,to_view=16104
+info|2019-12-12 15:00:51.918796|[P2P][Service] heartBeat,connected count=3
+info|2019-12-12 15:00:51.982901|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=c3dc98ed...
+info|2019-12-12 15:00:51.985596|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16104,toView=16105,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.404
+info|2019-12-12 15:00:51.988635|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16104,org_changeCycle=0,cur_changeCycle=0,to_view=16105
+warning|2019-12-12 15:00:52.198230|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:52.995788|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=9502b8c2...
+info|2019-12-12 15:00:52.999071|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16105,toView=16106,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.515
+info|2019-12-12 15:00:53.004202|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16105,org_changeCycle=0,cur_changeCycle=0,to_view=16106
+info|2019-12-12 15:00:54.005187|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=97d46a96...
+info|2019-12-12 15:00:54.007318|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16106,toView=16107,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.951
+info|2019-12-12 15:00:54.014223|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16106,org_changeCycle=0,cur_changeCycle=0,to_view=16107
+warning|2019-12-12 15:00:54.190684|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:55.014530|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=efdac843...
+info|2019-12-12 15:00:55.024049|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16107,toView=16108,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.415
+info|2019-12-12 15:00:55.029368|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16107,org_changeCycle=0,cur_changeCycle=0,to_view=16108
+info|2019-12-12 15:00:56.030860|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=9615a467...
+info|2019-12-12 15:00:56.032709|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16108,toView=16109,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.522
+info|2019-12-12 15:00:56.040692|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16108,org_changeCycle=0,cur_changeCycle=0,to_view=16109
+warning|2019-12-12 15:00:56.204292|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:57.051463|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=68f4f92f...
+info|2019-12-12 15:00:57.056842|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16109,toView=16110,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=4.942
+info|2019-12-12 15:00:57.062229|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16109,org_changeCycle=0,cur_changeCycle=0,to_view=16110
+info|2019-12-12 15:00:58.071353|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=5d700252...
+info|2019-12-12 15:00:58.074422|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16110,toView=16111,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.263
+info|2019-12-12 15:00:58.082549|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16110,org_changeCycle=0,cur_changeCycle=0,to_view=16111
+warning|2019-12-12 15:00:58.218824|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:00:59.083371|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=6cd47060...
+info|2019-12-12 15:00:59.092293|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16111,toView=16112,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.784
+info|2019-12-12 15:00:59.099159|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16111,org_changeCycle=0,cur_changeCycle=0,to_view=16112
+info|2019-12-12 15:01:00.113936|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=447384e9...
+info|2019-12-12 15:01:00.117501|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16112,toView=16113,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.031
+info|2019-12-12 15:01:00.122207|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16112,org_changeCycle=0,cur_changeCycle=0,to_view=16113
+warning|2019-12-12 15:01:00.204716|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:01.130841|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=0f754661...
+info|2019-12-12 15:01:01.135255|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16113,toView=16114,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.238
+info|2019-12-12 15:01:01.141703|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16113,org_changeCycle=0,cur_changeCycle=0,to_view=16114
+info|2019-12-12 15:01:01.918950|[P2P][Service] heartBeat,connected count=3
+info|2019-12-12 15:01:02.143682|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=f0619e2b...
+info|2019-12-12 15:01:02.153362|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16114,toView=16115,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=6.461
+info|2019-12-12 15:01:02.160699|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16114,org_changeCycle=0,cur_changeCycle=0,to_view=16115
+warning|2019-12-12 15:01:02.218264|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:03.161027|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=c4fce572...
+info|2019-12-12 15:01:03.171443|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16115,toView=16116,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=8.731
+info|2019-12-12 15:01:03.177893|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16115,org_changeCycle=0,cur_changeCycle=0,to_view=16116
+info|2019-12-12 15:01:04.178017|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=fc3146de...
+info|2019-12-12 15:01:04.179537|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16116,toView=16117,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.256
+info|2019-12-12 15:01:04.184001|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16116,org_changeCycle=0,cur_changeCycle=0,to_view=16117
+warning|2019-12-12 15:01:04.218530|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:05.194285|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=8bf431ac...
+info|2019-12-12 15:01:05.199255|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16117,toView=16118,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.083
+info|2019-12-12 15:01:05.205540|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16117,org_changeCycle=0,cur_changeCycle=0,to_view=16118
+warning|2019-12-12 15:01:06.204903|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:06.206500|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=f51226c3...
+info|2019-12-12 15:01:06.209749|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16118,toView=16119,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.054
+info|2019-12-12 15:01:06.224550|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16118,org_changeCycle=0,cur_changeCycle=0,to_view=16119
+info|2019-12-12 15:01:07.225283|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=844aee21...
+info|2019-12-12 15:01:07.232370|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16119,toView=16120,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.596
+info|2019-12-12 15:01:07.237202|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16119,org_changeCycle=0,cur_changeCycle=0,to_view=16120
+warning|2019-12-12 15:01:08.196172|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:08.238481|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=4d87e20e...
+info|2019-12-12 15:01:08.238914|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16120,toView=16121,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.309
+info|2019-12-12 15:01:08.240163|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16120,org_changeCycle=0,cur_changeCycle=0,to_view=16121
+info|2019-12-12 15:01:09.245615|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=ef13bcf6...
+info|2019-12-12 15:01:09.249324|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16121,toView=16122,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.864
+info|2019-12-12 15:01:09.253674|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16121,org_changeCycle=0,cur_changeCycle=0,to_view=16122
+warning|2019-12-12 15:01:10.216854|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:10.259436|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=dd990ef0...
+info|2019-12-12 15:01:10.261658|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16122,toView=16123,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.883
+info|2019-12-12 15:01:10.270245|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16122,org_changeCycle=0,cur_changeCycle=0,to_view=16123
+info|2019-12-12 15:01:11.270773|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=626fcc70...
+info|2019-12-12 15:01:11.278538|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16123,toView=16124,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=6.447
+info|2019-12-12 15:01:11.285233|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16123,org_changeCycle=0,cur_changeCycle=0,to_view=16124
+info|2019-12-12 15:01:11.919108|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:01:12.214653|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:12.294648|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=bc8a3298...
+info|2019-12-12 15:01:12.299942|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16124,toView=16125,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.891
+info|2019-12-12 15:01:12.307988|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16124,org_changeCycle=0,cur_changeCycle=0,to_view=16125
+info|2019-12-12 15:01:13.307222|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=4af78f2b...
+info|2019-12-12 15:01:13.313242|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16125,toView=16126,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=4.711
+info|2019-12-12 15:01:13.319553|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16125,org_changeCycle=0,cur_changeCycle=0,to_view=16126
+warning|2019-12-12 15:01:14.215411|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:14.318813|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=8acfc185...
+info|2019-12-12 15:01:14.320991|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16126,toView=16127,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.017
+info|2019-12-12 15:01:14.322743|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16126,org_changeCycle=0,cur_changeCycle=0,to_view=16127
+info|2019-12-12 15:01:15.322345|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=94ab2e2c...
+info|2019-12-12 15:01:15.322982|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16127,toView=16128,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.332
+info|2019-12-12 15:01:15.327602|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16127,org_changeCycle=0,cur_changeCycle=0,to_view=16128
+warning|2019-12-12 15:01:16.217630|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:16.328893|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=f116c8ed...
+info|2019-12-12 15:01:16.329518|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16128,toView=16129,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.367
+info|2019-12-12 15:01:16.331569|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16128,org_changeCycle=0,cur_changeCycle=0,to_view=16129
+info|2019-12-12 15:01:17.334533|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=82490e1f...
+info|2019-12-12 15:01:17.334922|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16129,toView=16130,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.301
+info|2019-12-12 15:01:17.336219|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16129,org_changeCycle=0,cur_changeCycle=0,to_view=16130
+warning|2019-12-12 15:01:18.201826|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:18.338515|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=b4a7a983...
+info|2019-12-12 15:01:18.340383|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16130,toView=16131,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.593
+info|2019-12-12 15:01:18.342711|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16130,org_changeCycle=0,cur_changeCycle=0,to_view=16131
+info|2019-12-12 15:01:19.342616|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=26bbf755...
+info|2019-12-12 15:01:19.349814|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16131,toView=16132,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.715
+info|2019-12-12 15:01:19.356448|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16131,org_changeCycle=0,cur_changeCycle=0,to_view=16132
+warning|2019-12-12 15:01:20.220735|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:20.360822|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=4e568bd7...
+info|2019-12-12 15:01:20.361519|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16132,toView=16133,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.507
+info|2019-12-12 15:01:20.364065|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16132,org_changeCycle=0,cur_changeCycle=0,to_view=16133
+info|2019-12-12 15:01:21.369380|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=c31ea391...
+info|2019-12-12 15:01:21.375183|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16133,toView=16134,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=4.002
+info|2019-12-12 15:01:21.382874|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16133,org_changeCycle=0,cur_changeCycle=0,to_view=16134
+info|2019-12-12 15:01:21.919349|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:01:22.230945|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:22.392613|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=1ba8f4d7...
+info|2019-12-12 15:01:22.395088|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16134,toView=16135,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.896
+info|2019-12-12 15:01:22.400683|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16134,org_changeCycle=0,cur_changeCycle=0,to_view=16135
+info|2019-12-12 15:01:23.401542|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=eb118339...
+info|2019-12-12 15:01:23.404757|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16135,toView=16136,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.592
+info|2019-12-12 15:01:23.416811|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16135,org_changeCycle=0,cur_changeCycle=0,to_view=16136
+warning|2019-12-12 15:01:24.202613|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:24.432675|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=0b485036...
+info|2019-12-12 15:01:24.434431|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16136,toView=16137,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.481
+info|2019-12-12 15:01:24.435840|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16136,org_changeCycle=0,cur_changeCycle=0,to_view=16137
+info|2019-12-12 15:01:25.438738|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=d48ccf86...
+info|2019-12-12 15:01:25.441816|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16137,toView=16138,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.669
+info|2019-12-12 15:01:25.446061|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16137,org_changeCycle=0,cur_changeCycle=0,to_view=16138
+warning|2019-12-12 15:01:26.222630|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:26.451490|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=c82937c4...
+info|2019-12-12 15:01:26.452028|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16138,toView=16139,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.31
+info|2019-12-12 15:01:26.452792|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16138,org_changeCycle=0,cur_changeCycle=0,to_view=16139
+info|2019-12-12 15:01:27.452644|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=35cd54ee...
+info|2019-12-12 15:01:27.453257|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16139,toView=16140,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.273
+info|2019-12-12 15:01:27.455826|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16139,org_changeCycle=0,cur_changeCycle=0,to_view=16140
+warning|2019-12-12 15:01:28.215386|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:28.457780|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=15fe8ffc...
+info|2019-12-12 15:01:28.458256|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16140,toView=16141,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.287
+info|2019-12-12 15:01:28.460237|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16140,org_changeCycle=0,cur_changeCycle=0,to_view=16141
+info|2019-12-12 15:01:29.459796|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=6f7e2535...
+info|2019-12-12 15:01:29.460246|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16141,toView=16142,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.359
+info|2019-12-12 15:01:29.462587|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16141,org_changeCycle=0,cur_changeCycle=0,to_view=16142
+warning|2019-12-12 15:01:30.206965|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:30.463494|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=7727bf52...
+info|2019-12-12 15:01:30.463856|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16142,toView=16143,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.276
+info|2019-12-12 15:01:30.464794|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16142,org_changeCycle=0,cur_changeCycle=0,to_view=16143
+info|2019-12-12 15:01:31.464582|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=2129cd15...
+info|2019-12-12 15:01:31.465159|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16143,toView=16144,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.299
+info|2019-12-12 15:01:31.467064|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16143,org_changeCycle=0,cur_changeCycle=0,to_view=16144
+info|2019-12-12 15:01:31.919470|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:01:32.216112|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:32.467289|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=69b359fa...
+info|2019-12-12 15:01:32.467687|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16144,toView=16145,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.309
+info|2019-12-12 15:01:32.469076|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16144,org_changeCycle=0,cur_changeCycle=0,to_view=16145
+info|2019-12-12 15:01:33.474474|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=098fd8c4...
+info|2019-12-12 15:01:33.477460|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16145,toView=16146,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.496
+info|2019-12-12 15:01:33.484134|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16145,org_changeCycle=0,cur_changeCycle=0,to_view=16146
+warning|2019-12-12 15:01:34.204923|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:34.487705|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=d241cf7b...
+info|2019-12-12 15:01:34.494657|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16146,toView=16147,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=5.057
+info|2019-12-12 15:01:34.499368|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16146,org_changeCycle=0,cur_changeCycle=0,to_view=16147
+info|2019-12-12 15:01:35.500108|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=791a79b2...
+info|2019-12-12 15:01:35.501021|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16147,toView=16148,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.623
+info|2019-12-12 15:01:35.503709|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16147,org_changeCycle=0,cur_changeCycle=0,to_view=16148
+warning|2019-12-12 15:01:36.220243|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:36.506793|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=e3f14011...
+info|2019-12-12 15:01:36.508436|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16148,toView=16149,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.303
+info|2019-12-12 15:01:36.512871|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16148,org_changeCycle=0,cur_changeCycle=0,to_view=16149
+info|2019-12-12 15:01:37.516696|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=fe804dff...
+info|2019-12-12 15:01:37.519276|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16149,toView=16150,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.31
+info|2019-12-12 15:01:37.521033|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16149,org_changeCycle=0,cur_changeCycle=0,to_view=16150
+warning|2019-12-12 15:01:38.221823|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:38.525155|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=169f6c5a...
+info|2019-12-12 15:01:38.527716|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16150,toView=16151,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.765
+info|2019-12-12 15:01:38.535012|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16150,org_changeCycle=0,cur_changeCycle=0,to_view=16151
+info|2019-12-12 15:01:39.536570|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=bbee6692...
+info|2019-12-12 15:01:39.542325|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16151,toView=16152,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.74
+info|2019-12-12 15:01:39.550509|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16151,org_changeCycle=0,cur_changeCycle=0,to_view=16152
+warning|2019-12-12 15:01:40.233259|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:40.563660|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=74de4aaa...
+info|2019-12-12 15:01:40.568803|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16152,toView=16153,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.615
+info|2019-12-12 15:01:40.575446|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16152,org_changeCycle=0,cur_changeCycle=0,to_view=16153
+info|2019-12-12 15:01:41.586268|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=9b149db5...
+info|2019-12-12 15:01:41.588691|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16153,toView=16154,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.008
+info|2019-12-12 15:01:41.594234|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16153,org_changeCycle=0,cur_changeCycle=0,to_view=16154
+info|2019-12-12 15:01:41.919637|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:01:42.212267|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:42.601824|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=00155f32...
+info|2019-12-12 15:01:42.602108|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16154,toView=16155,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.214
+info|2019-12-12 15:01:42.603595|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16154,org_changeCycle=0,cur_changeCycle=0,to_view=16155
+info|2019-12-12 15:01:43.604551|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=2c517fe0...
+info|2019-12-12 15:01:43.613360|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16155,toView=16156,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.551
+info|2019-12-12 15:01:43.621912|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16155,org_changeCycle=0,cur_changeCycle=0,to_view=16156
+warning|2019-12-12 15:01:44.227188|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:44.630014|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=871b44a8...
+info|2019-12-12 15:01:44.631947|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16156,toView=16157,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.109
+info|2019-12-12 15:01:44.641980|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16156,org_changeCycle=0,cur_changeCycle=0,to_view=16157
+info|2019-12-12 15:01:45.644544|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=bab56d49...
+info|2019-12-12 15:01:45.646608|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16157,toView=16158,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.613
+info|2019-12-12 15:01:45.655590|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16157,org_changeCycle=0,cur_changeCycle=0,to_view=16158
+warning|2019-12-12 15:01:46.227296|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:46.666543|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=0944acc3...
+info|2019-12-12 15:01:46.667181|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16158,toView=16159,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.532
+info|2019-12-12 15:01:46.668705|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16158,org_changeCycle=0,cur_changeCycle=0,to_view=16159
+info|2019-12-12 15:01:47.668345|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=1133aa42...
+info|2019-12-12 15:01:47.675191|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16159,toView=16160,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.066
+info|2019-12-12 15:01:47.678681|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16159,org_changeCycle=0,cur_changeCycle=0,to_view=16160
+warning|2019-12-12 15:01:48.244796|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:48.681339|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=51a6add6...
+info|2019-12-12 15:01:48.683495|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16160,toView=16161,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.611
+info|2019-12-12 15:01:48.695105|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16160,org_changeCycle=0,cur_changeCycle=0,to_view=16161
+info|2019-12-12 15:01:49.698190|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=5f53da44...
+info|2019-12-12 15:01:49.702617|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16161,toView=16162,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.59
+info|2019-12-12 15:01:49.710314|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16161,org_changeCycle=0,cur_changeCycle=0,to_view=16162
+warning|2019-12-12 15:01:50.230331|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:50.717164|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=bb15b1fb...
+info|2019-12-12 15:01:50.722484|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16162,toView=16163,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.98
+info|2019-12-12 15:01:50.729874|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16162,org_changeCycle=0,cur_changeCycle=0,to_view=16163
+info|2019-12-12 15:01:51.730044|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=c72f4ba7...
+info|2019-12-12 15:01:51.734090|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16163,toView=16164,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.43
+info|2019-12-12 15:01:51.734562|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16163,org_changeCycle=0,cur_changeCycle=0,to_view=16164
+info|2019-12-12 15:01:51.919909|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:01:52.232632|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:52.738977|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=d6ee8127...
+info|2019-12-12 15:01:52.741380|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16164,toView=16165,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.901
+info|2019-12-12 15:01:52.748732|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16164,org_changeCycle=0,cur_changeCycle=0,to_view=16165
+info|2019-12-12 15:01:53.760305|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=871d128f...
+info|2019-12-12 15:01:53.762690|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16165,toView=16166,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.944
+info|2019-12-12 15:01:53.768893|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16165,org_changeCycle=0,cur_changeCycle=0,to_view=16166
+warning|2019-12-12 15:01:54.215135|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:54.771200|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=8d610e4b...
+info|2019-12-12 15:01:54.772264|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16166,toView=16167,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.981
+info|2019-12-12 15:01:54.775133|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16166,org_changeCycle=0,cur_changeCycle=0,to_view=16167
+info|2019-12-12 15:01:55.776483|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=134e8512...
+info|2019-12-12 15:01:55.785015|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16167,toView=16168,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=6.136
+info|2019-12-12 15:01:55.795983|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16167,org_changeCycle=0,cur_changeCycle=0,to_view=16168
+warning|2019-12-12 15:01:56.242867|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:56.810119|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=387e1741...
+info|2019-12-12 15:01:56.821485|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16168,toView=16169,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.75
+info|2019-12-12 15:01:56.832027|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16168,org_changeCycle=0,cur_changeCycle=0,to_view=16169
+info|2019-12-12 15:01:57.835921|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=4821f12f...
+info|2019-12-12 15:01:57.839690|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16169,toView=16170,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.467
+info|2019-12-12 15:01:57.846731|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16169,org_changeCycle=0,cur_changeCycle=0,to_view=16170
+warning|2019-12-12 15:01:58.233049|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:01:58.849553|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=fbb17923...
+info|2019-12-12 15:01:58.851782|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16170,toView=16171,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.725
+info|2019-12-12 15:01:58.860563|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16170,org_changeCycle=0,cur_changeCycle=0,to_view=16171
+info|2019-12-12 15:01:59.860755|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=643061d4...
+info|2019-12-12 15:01:59.869834|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16171,toView=16172,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.674
+info|2019-12-12 15:01:59.879405|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16171,org_changeCycle=0,cur_changeCycle=0,to_view=16172
+warning|2019-12-12 15:02:00.237246|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:00.881710|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=c6c770fb...
+info|2019-12-12 15:02:00.883788|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16172,toView=16173,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.537
+info|2019-12-12 15:02:00.888878|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16172,org_changeCycle=0,cur_changeCycle=0,to_view=16173
+info|2019-12-12 15:02:01.897055|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=e2164c3c...
+info|2019-12-12 15:02:01.899850|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16173,toView=16174,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.913
+info|2019-12-12 15:02:01.905370|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16173,org_changeCycle=0,cur_changeCycle=0,to_view=16174
+info|2019-12-12 15:02:01.920198|[P2P][Service] heartBeat,connected count=3
+warning|2019-12-12 15:02:02.243313|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:02.918493|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=2e245e18...
+info|2019-12-12 15:02:02.929866|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16174,toView=16175,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=7.328
+info|2019-12-12 15:02:02.935139|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16174,org_changeCycle=0,cur_changeCycle=0,to_view=16175
+info|2019-12-12 15:02:03.936188|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=83b0d8b9...
+info|2019-12-12 15:02:03.940630|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16175,toView=16176,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.183
+info|2019-12-12 15:02:03.947994|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16175,org_changeCycle=0,cur_changeCycle=0,to_view=16176
+warning|2019-12-12 15:02:04.237643|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:04.961586|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=7d46e506...
+info|2019-12-12 15:02:04.964965|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16176,toView=16177,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.878
+info|2019-12-12 15:02:04.971867|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16176,org_changeCycle=0,cur_changeCycle=0,to_view=16177
+info|2019-12-12 15:02:05.980045|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=9c17ee90...
+info|2019-12-12 15:02:05.984803|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16177,toView=16178,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.229
+info|2019-12-12 15:02:05.990844|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16177,org_changeCycle=0,cur_changeCycle=0,to_view=16178
+warning|2019-12-12 15:02:06.262065|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:06.998551|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=5697c56f...
+info|2019-12-12 15:02:06.999160|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16178,toView=16179,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=0.497
+info|2019-12-12 15:02:07.000400|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16178,org_changeCycle=0,cur_changeCycle=0,to_view=16179
+info|2019-12-12 15:02:08.000889|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=1eaf2cde...
+info|2019-12-12 15:02:08.006247|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16179,toView=16180,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=4.09
+info|2019-12-12 15:02:08.014006|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16179,org_changeCycle=0,cur_changeCycle=0,to_view=16180
+warning|2019-12-12 15:02:08.237208|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:09.020829|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=a982c6bf...
+info|2019-12-12 15:02:09.024840|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16180,toView=16181,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=3.562
+info|2019-12-12 15:02:09.030629|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16180,org_changeCycle=0,cur_changeCycle=0,to_view=16181
+info|2019-12-12 15:02:10.039595|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=f7f9d8e8...
+info|2019-12-12 15:02:10.043884|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16181,toView=16182,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.774
+info|2019-12-12 15:02:10.049988|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16181,org_changeCycle=0,cur_changeCycle=0,to_view=16182
+warning|2019-12-12 15:02:10.245264|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:11.057141|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=3,hash=e6ce23b0...
+info|2019-12-12 15:02:11.064697|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16182,toView=16183,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=5.822
+info|2019-12-12 15:02:11.073118|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16182,org_changeCycle=0,cur_changeCycle=0,to_view=16183
+info|2019-12-12 15:02:11.920675|[P2P][Service] heartBeat,connected count=3
+info|2019-12-12 15:02:12.074075|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=6,tx=0,nodeIdx=0,hash=39c7ce20...
+info|2019-12-12 15:02:12.082440|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16183,toView=16184,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=6.952
+info|2019-12-12 15:02:12.086611|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16183,org_changeCycle=0,cur_changeCycle=0,to_view=16184
+warning|2019-12-12 15:02:12.243035|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
+info|2019-12-12 15:02:13.095469|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=1,hash=d364390b...
+info|2019-12-12 15:02:13.098002|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16184,toView=16185,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=1.834
+info|2019-12-12 15:02:13.104201|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16184,org_changeCycle=0,cur_changeCycle=0,to_view=16185
+info|2019-12-12 15:02:14.109913|[g:1][CONSENSUS]addRawPrepare,height=6,reqIdx=2,hash=3cc3ef68...
+info|2019-12-12 15:02:14.113933|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=16185,toView=16186,nodeIdx=0,changeCycle=0,myNode=3f806b74...,timecost=2.447
+info|2019-12-12 15:02:14.120108|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=16185,org_changeCycle=0,cur_changeCycle=0,to_view=16186
+warning|2019-12-12 15:02:14.240817|[CHANNEL]SSL handshake error,message=sslv3 alert certificate unknown
